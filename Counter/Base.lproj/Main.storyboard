@@ -76,7 +76,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="counterImage" destination="X6g-gU-hUF" id="jmj-LB-npW"/>
+                        <outlet property="counterLabel" destination="X6g-gU-hUF" id="jmj-LB-npW"/>
                         <outlet property="historyView" destination="5Rr-eU-3L5" id="GOU-DC-PpI"/>
                         <outlet property="minusButton" destination="FuQ-cC-1hN" id="dSi-vx-C72"/>
                         <outlet property="plusButton" destination="JiZ-v1-OPX" id="odF-JN-lvo"/>
